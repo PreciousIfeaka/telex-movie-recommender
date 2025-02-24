@@ -8,7 +8,7 @@
       "app_description": "This app sends movie recommendations to the channel based on genre.",
       "app_logo": "https://res.cloudinary.com/debi5d65m/image/upload/v1740369780/movie-recommender_logo_u86k8p.webp",
       "app_name": "Telex-Movie-Recommender",
-      "app_url": "https://fb68-102-89-47-98.ngrok-free.app",
+      "app_url": "https://telex-movie-recommender-production.up.railway.app/",
       "background_color": "#D3D3D3"
     },
     "integration_category": "Communication & Collaboration",
@@ -37,7 +37,7 @@
         ]
       }
     ],
-    "tick_url": "https://fb68-102-89-47-98.ngrok-free.app/tick",
+    "tick_url": "https://telex-movie-recommender-production.up.railway.app/tick",
     "target_url": ""
   }
 }
