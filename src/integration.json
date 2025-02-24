@@ -22,7 +22,7 @@
         "label": "interval",
         "type": "text",
         "required": true,
-        "default": "*/15 * * * *"
+        "default": "*/5 * * * *"
       },
       {
         "label": "Select Genre",
